@@ -32,7 +32,7 @@
 
 1. **Подпишись** на этот репозиторий (Watch) — чтобы быть в курсе обновлений
 2. **Вступай в организацию** — напиши нам в Telegram или на почту
-3. **Участвуй в обсуждениях** — [Discussions](../discussions)
+3. **Участвуй в обсуждениях** — [Discussions]([../discussions](https://github.com/Hackerspace-Tashkent/hackerspace-tashkent/discussions))
 4. **Предложи проект** — создай Issue или PR с идеей
 5. **Приходи на встречи** — анонсы в Telegram-канале
 
