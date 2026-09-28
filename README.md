@@ -32,7 +32,7 @@ We are a community of enthusiasts from Tashkent and Uzbekistan who:
 
 1. **Watch this repository** — stay updated on changes
 2. **Join the organization** — message us on Telegram or via email
-3. **Participate in discussions** — [Discussions](../discussions)
+3. **Participate in discussions** — [Discussions](https://github.com/Hackerspace-Tashkent/hackerspace-tashkent/discussions)
 4. **Propose a project** — create an Issue or PR with your idea
 5. **Attend meetups** — announcements in our Telegram channel
 
