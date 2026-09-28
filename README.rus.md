@@ -1,5 +1,14 @@
 # Hackerspace Tashkent
 
+## Languages / Tillar / Тиллар
+
+- [English](README.md)
+- [Oʻzbekcha (Lotin)](README.uz-lat.md)
+- [Ўзбекча (Кирил)](README.uz-cyr.md)
+- [Русский](README.rus.md)
+
+---
+
 Добро пожаловать в официальное комьюнити **Hackerspace Tashkent** — пространство для обмена знаниями, проектами и событий в сфере технологий, электроники и open-source.
 
 ## 📌 О нас
