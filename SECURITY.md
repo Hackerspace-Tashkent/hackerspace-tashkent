@@ -3,7 +3,7 @@
 ## Reporting a Vulnerability / Сообщение о уязвимости
 
 Если нашли баг или уязвимость — создайте **private issue** или напишите:
-- Email: hackerspace.tashkent@gmail.com
+- Email: hackerspace.tash@gmail.com
 - Telegram admin: свой username
 
 **Не создавайте public issues** для уязвимостей — сначала сообщите нам.
