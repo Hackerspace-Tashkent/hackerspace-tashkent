@@ -1,5 +1,13 @@
 # Hackerspace Tashkent
 
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/status-active-green.svg)](README.md)
+[![Telegram](https://img.shields.io/badge/Telegram-@hackerspace_tashkent-blue.svg)](https://t.me/hackerspace_tashkent)
+[![Email](https://img.shields.io/badge/email-hackerspace.tash@gmail.com-red.svg)](mailto:hackerspace.tash@gmail.com)
+[![Languages](https://img.shields.io/badge/languages-RU--EN--UZ--HY-orange.svg)](README.md)
+
+---
+
 ## Languages / Tillar / Тиллар
 
 - [English](README.md)
