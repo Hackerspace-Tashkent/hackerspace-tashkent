@@ -42,7 +42,7 @@ We are a community of enthusiasts from Tashkent and Uzbekistan who:
 |----------|------|
 | **Telegram (channel)** | [@hackerspace_tashkent](https://t.me/hackerspace_tashkent) |
 | **Telegram (chat)** | [Hackerspace Tashkent Chat](https://t.me/hackerspace_tashkent_chat) |
-| **Email** | [hackerspace.tashkent@gmail.com](mailto:hackerspace.tashkent@gmail.com) |
+| **Email** | [hackerspace.tash@gmail.com](mailto:hackerspace.tash@gmail.com) |
 | **Website** | [hackerspace.uz](https://hackerspace.uz) |
 | **GitHub** | [Hackerspace-Tashkent](https://github.com/Hackerspace-Tashkent) |
 
