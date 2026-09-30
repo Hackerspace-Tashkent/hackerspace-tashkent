@@ -13,20 +13,39 @@ Rasmiy **Hackerspace Tashkent** jamoasiga xush kelibsiz — texnologiya, elektro
 
 ## 📌 Biz haqimizda
 
-Biz Toshkent va Oʻzbekistondan kelgan muxlislar jamoasimiz, quyidagilar bilan shugʻullanamiz:
+**Biz endi boshlaganmiz.** Hali ishtirokchimiz yoʻq, birorta uchrashuv
+boʻlmagan, tugallangan qurilma loyihasi yoʻq. Hech qanday tirik odam hali
+oʻquv materiallarini oxirigacha oʻtmagan.
 
-- 🔧 **Qurilmalar yaratamiz** — Arduino, ESP32, Raspberry Pi, FPGA, embedded tizimlar
+Buni ochiq aytamiz, chunki yoʻq narsani vaʼda qilish uni tan olishdan yomonroq:
+odamlar keladi, tayyor boʻlmagan narsaga tegadi va qaytib kelmaydi.
+
+Hali mavjud va tekshirilgan:
+
+- 📚 **Oʻquv materiallari** — 8 laboratoriya, 67 avtomatik tekshiruv, 4 til
+- 💻 **Brauzer muhiti** — Codespaces, oʻrnatish shart emas
+- 📖 **Hujjatlar** — jumladan xavfsizlik qoʻllanmasi va jamoat standartlari
+
+Batafsil va halol versiya — [docs/positioning.en.md](docs/positioning.en.md).
 - 💻 **Kod yozamiz** — web, mobil ilovalar, desktop, DevOps
 - 🤖 **Tajriba oʻtkazamiz** — robototexnika, IoT, AI/ML, kompyuter koʻrish
 - 📚 **Tajriba almashamiz** — workshoplar, meetuplar, hakatonlar, qoʻshma loyihalar
 
 ## 🎯 Nima bilan shugʻullanamiz
 
-- **Workshoplar va meetuplar** — muntazam onlayn va oflayn uchrashuvlar
-- **Qoʻshma loyihalar** — gʻoyadan prototip va relizgacha
-- **Mentorlik** — yangi boshlovchilarga yordam
-- **Open-source** — kod, sxemalar, hujjatlarni nashr etish
-- **Hardware lab** — qurilmalar, sensorlar, platlar bilan ishlash
+Hozir **nima qilamiz**:
+
+- **Oʻquv materiallari** — tayyor, 8 laboratoriya avtomatik tekshiruv bilan
+- **Open-source** — kod va hujjatlar ochiq, MIT litsiyasi
+- **Materiallarni tekshirish** — validator oʻlgan havolalar va til mosligini ushlaydi
+
+Hali **faqat reja**:
+
+- **Uchrashuvlar** — jadval bor, birinchisi hali belgilanmagan
+- **Qurilmalar** — loyihalar repositoriysi boʻsh, rejalashtirish kerak
+- **Ishtirokchi workshoplari** — nol, kanal boʻsh
+- **Natijalar taxtasi** — kod bor, avtomatika bloklangan: tokenda workflow
+  ruxsat yoʻq
 
 ## 🚀 Qanday qoʻshilish mumkin
 
