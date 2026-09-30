@@ -13,20 +13,36 @@ Welcome to the official **Hackerspace Tashkent** community — a space for shari
 
 ## 📌 About Us
 
-We are a community of enthusiasts from Tashkent and Uzbekistan who:
+**We have only just started.** We have no members yet, no meeting has ever
+taken place, and no finished hardware project. Not one living person has been
+through our material.
 
-- 🔧 **Build hardware** — Arduino, ESP32, Raspberry Pi, FPGA, embedded systems
-- 💻 **Write code** — web, mobile apps, desktop, DevOps
-- 🤖 **Experiment** — robotics, IoT, AI/ML, computer vision
-- 📚 **Share experience** — workshops, meetups, hackathons, joint projects
+We say so plainly, because promising what does not exist is worse than admitting
+it: people would come, hit something unfinished, and not come back.
+
+What already exists and has been verified:
+
+- 📚 **Teaching material** — 8 labs, 67 automatic checks, 4 languages
+- 💻 **Browser environment** — Codespaces, nothing to install
+- 📖 **Documentation** — including a safety guide and community standards
+
+The detailed honest version is in [docs/positioning.en.md](docs/positioning.en.md).
 
 ## 🎯 What We Do
 
-- **Workshops and meetups** — regular online and offline gatherings
-- **Joint projects** — from idea to prototype and release
-- **Mentorship** — helping beginners get started
-- **Open-source** — publishing code, schematics, documentation
-- **Hardware lab** — working with hardware, sensors, boards
+What we are doing **now**:
+
+- **Teaching material** — built, 8 labs with automatic checking
+- **Open-source** — code and documentation public, MIT licence
+- **Validating the material** — a validator catches broken links and language drift
+
+What is **still only a plan**:
+
+- **Meetings** — a schedule exists, the first is not scheduled yet
+- **Hardware** — the projects repository is empty, planning needed
+- **Workshops by members** — zero, the channel is empty
+- **Progress board** — the code exists, the automation is blocked: our token
+  has no permission for workflows
 
 ## 🚀 How to Join
 
@@ -43,7 +59,7 @@ We are a community of enthusiasts from Tashkent and Uzbekistan who:
 | **Telegram (channel)** | [@hackerspace_tashkent](https://t.me/hackerspace_tashkent) |
 | **Telegram (chat)** | [Hackerspace Tashkent Chat](https://t.me/hackerspace_tashkent_chat) |
 | **Email** | [hackerspace.tash@gmail.com](mailto:hackerspace.tash@gmail.com) |
-| **Website** | [hackerspace.uz](https://hackerspace.uz) |
+| **Website** | [hackerspace-tashkent.github.io](https://hackerspace-tashkent.github.io/Hackerspace-Tashkent-website/) |
 | **GitHub** | [Hackerspace-Tashkent](https://github.com/Hackerspace-Tashkent) |
 
 > 📍 **Location:** Tashkent, Uzbekistan (offline meetups by arrangement)
@@ -61,12 +77,6 @@ We are a community of enthusiasts from Tashkent and Uzbekistan who:
 
 We use **GitHub Codespaces** for collaboration directly in the browser — no installations, no local setup. Instructors run calls, review files via the Codespaces web interface, and track student progress.
 
-### Learning Structure (60% Practice, 40% Theory)
-
-| Type | Percentage | Description |
-|------|------------|-------------|
-| **Practice** | 60% | Hands-on tasks in Codespaces: package installation, scripting, Git, monitoring |
-| **Theory** | 40% | Explanations of "why" before each task |
 
 ### Core Practical Tasks
 
