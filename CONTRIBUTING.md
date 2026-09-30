@@ -45,8 +45,8 @@
 
 ## 💬 Общение
 
-- **Вопросы** — [Discussions](../../discussions)
-- **Баги и фичи** — [Issues](../../issues)
+- **Вопросы** — [Discussions](https://github.com/Hackerspace-Tashkent/hackerspace-tashkent/discussions)
+- **Баги и фичи** — [Issues](https://github.com/Hackerspace-Tashkent/hackerspace-tashkent/issues)
 - **Чат** — [Telegram](https://t.me/hackerspace_tashkent_chat)
 
 ## 🎯 Приоритетные задачи
