@@ -1,0 +1,24 @@
+# Операционная система
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Редакторы
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Секреты — никогда не коммитить
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+
+# Сборочный мусор
+*.log
+tmp/
+temp/
