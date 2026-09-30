@@ -80,12 +80,6 @@ Hali **faqat reja**:
 
 Biz brauzerda toʻgʻridan-toʻgʻri hamkorlik qilish uchun **GitHub Codespaces** dan foydalanamiz — hech qanday oʻrnatish, hech qanday lokal sozlamalar yoʻq. Oʻqituvchilar qoʻngʻiroqlar oʻtkazadi, Codespaces web interfeysi orqali fayllarni koʻrib chiqadi va talaba progressini kuzatib boradi.
 
-### Oʻqitish tuzilishi (60% amaliyot, 40% nazariya)
-
-| Tur | Foiz | Tavsif |
-|-----|------|--------|
-| **Amaliyot** | 60% | Codespacesda amaliy vazifalar: paketlarni oʻrnatish, skripting, Git, monitoring |
-| **Nazariya** | 40% | Har bir vazifadan oldin “nega” tushuntirish |
 
 ### Asosiy amaliy vazifalar
 
