@@ -99,13 +99,15 @@ We use **GitHub Codespaces** for collaboration directly in the browser — no in
 
 If you are new and want to start from the basics, here is a short roadmap:
 
-1. **Create a repository in Codespaces** — we provide a ready-to-use environment
-2. **Complete your first task** — file system navigation (Task 1)
-3. **Go through the Git workshop** — init, branches, commits (Task 5)
-4. **Write your first script** — automation with Bash (Task 4)
-5. **Work with monitoring** — `df`, `top`, `ps` (Task 3)
+1. **Open our repository in Codespaces** — the environment is set up, nothing to install
+2. **Complete your first task** — file system navigation
+3. **Take the Git lesson** — init, branches, commits
+4. **Write your first script** — automation with Bash
+5. **Get into processes and networking** — level 2
 
-Each step has a clear goal and verification. Instructors will track your progress and give feedback.
+Checking is automatic: `./check.sh` shows exactly what did not work. There is no
+instructor — nobody will be able to look at your progress. If something is
+unclear, post in [Discussions](https://github.com/Hackerspace-Tashkent/hackerspace-tashkent/discussions).
 
 ## 🤝 Contributing to the Community
 
