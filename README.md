@@ -68,10 +68,10 @@ What is **still only a plan**:
 
 | Repository | Description | Status |
 |------------|-------------|--------|
-| `projects` | List of all community projects | 🟡 In development |
-| `events` | Announcements for meetups, workshops, hackathons | 🟡 In development |
-| `hardware-lab` | Schematics, boards, hardware documentation | ⬜ Planned |
-| `docs` | Guides, tutorials, translations | ⬜ Planned |
+| `hackerspace-tashkent-learning` | Teaching material, 8 labs, 4 languages | ✅ Exists, validated by script |
+| `Hackerspace-Tashkent-website` | The website, four languages | ✅ Works |
+| `hackerspace-tashkent-projects` | Hardware and real projects | ⬜ Empty, only a stub |
+| `hackerspace-tashkent` | This repository: the organisation and its rules | ✅ Exists |
 
 ## 🛠 How We Learn (Practice + Theory)
 
