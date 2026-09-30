@@ -43,7 +43,7 @@
 | **Telegram (канал)** | [@hackerspace_tashkent](https://t.me/hackerspace_tashkent) |
 | **Telegram (чат)** | [Hackerspace Tashkent Chat](https://t.me/hackerspace_tashkent_chat) |
 | **Email** | [hackerspace.tash@gmail.com](mailto:hackerspace.tash@gmail.com) |
-| **Сайт** | [hackerspace.uz](https://hackerspace.uz) |
+| **Сайт** | [hackerspace-tashkent.github.io](https://hackerspace-tashkent.github.io/Hackerspace-Tashkent-website/) |
 | **GitHub** | [Hackerspace-Tashkent](https://github.com/Hackerspace-Tashkent) |
 
 > 📍 **Жойлашув:** Тошкент, Ўзбекистон (офлайн учрашувлар келишув асосида)
