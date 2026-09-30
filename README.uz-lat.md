@@ -71,10 +71,10 @@ Hali **faqat reja**:
 
 | Repozitoriy | Tavsif | Holat |
 |-------------|--------|-------|
-| `projects` | Jamoaning barcha loyihalari roʻyxati | 🟡 Ishlanmoqda |
-| `events` | Uchrashuvlar, workshoplar, hakatonlar eʼlonlari | 🟡 Ishlanmoqda |
-| `hardware-lab` | Sxemalar, platlar, hardware hujjatlari | ⬜ Rejalashtirilmoqda |
-| `docs` | Qoʻllanmalar, tutoriallar, tarjimalar | ⬜ Rejalashtirilmoqda |
+| `hackerspace-tashkent-learning` | Oʻquv materiallari, 8 laboratoriya, 4 til | ✅ Bor, skript tekshiradi |
+| `Hackerspace-Tashkent-website` | Sayt, toʻrt tilda | ✅ Ishlaydi |
+| `hackerspace-tashkent-projects` | Qurilmalar va haqiqiy loyihalar | ⬜ Boʻsh, faqat tayyorlovchi |
+| `hackerspace-tashkent` | Shu repositoriy: tashkilot va qoidalar | ✅ Bor |
 
 ## 🛠 Qanday oʻrganamiz (amaliyot + nazariya)
 
