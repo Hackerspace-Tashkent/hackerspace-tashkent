@@ -43,7 +43,7 @@ Biz Toshkent va Oʻzbekistondan kelgan muxlislar jamoasimiz, quyidagilar bilan s
 | **Telegram (kanal)** | [@hackerspace_tashkent](https://t.me/hackerspace_tashkent) |
 | **Telegram (chat)** | [Hackerspace Tashkent Chat](https://t.me/hackerspace_tashkent_chat) |
 | **Email** | [hackerspace.tash@gmail.com](mailto:hackerspace.tash@gmail.com) |
-| **Sayt** | [hackerspace.uz](https://hackerspace.uz) |
+| **Sayt** | [рабочий сайт](https://hackerspace-tashkent.github.io/Hackerspace-Tashkent-website/) |
 | **GitHub** | [Hackerspace-Tashkent](https://github.com/Hackerspace-Tashkent) |
 
 > 📍 **Joylashuv:** Toshkent, Oʻzbekiston (oflayn uchrashuvlar kelishuv asosida)
