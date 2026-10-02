@@ -27,6 +27,7 @@ What already exists and has been verified:
 - 📖 **Documentation** — including a safety guide and community standards
 
 The detailed honest version is in [docs/positioning.en.md](docs/positioning.en.md).
+Why our CI/CD looks the way it does, and what we chose not to do — [docs/ci-cd.en.md](docs/ci-cd.en.md).
 
 ## 🎯 What We Do
 
